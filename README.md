@@ -26,3 +26,5 @@ your_sample path/to/hap1_asm    /path/to/hap2_asm
 ln -s ./runsnake .
 ./runsnake 30
 ```
+## Overview
+![pipeline vector](https://github.com/projectoriented/fix-sex-chrom/blob/main/dag.png)
