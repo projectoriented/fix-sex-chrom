@@ -1,0 +1,5 @@
+reference: /net/eichler/vol26/eee_shared/assemblies/CHM13/T2T/v2.0/T2T-CHM13v2.fasta
+
+# OPTIONAL ARGS
+minimap_params: '-x asm20 --secondary=no -s 25000'
+manifest: config/manifest.tab
